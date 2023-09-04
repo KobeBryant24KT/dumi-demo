@@ -5,6 +5,10 @@ export type ButtonProps = {
    * 自定义内容
    */
   children?: React.ReactNode;
+  /** 按钮形状
+   *  @default 'default'
+   * */
+  shape?: 'circle' | 'round';
   /** 按钮大小
    * @default 'middle'
    * */
