@@ -8,7 +8,7 @@ import { Button } from 'my-dumi-demo';
 
 const App: React.FC = () => (
   <>
-    <Button theme="dashed">Primary Button</Button>
+    <Button shape='circle' theme="dashed">Primary Button</Button>
     <Button>Default Button</Button>
     <Button theme='default'>Dashed Button</Button>
     <Button theme='default'>Text Button</Button>
