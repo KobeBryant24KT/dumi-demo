@@ -29,6 +29,7 @@ export type ButtonProps = {
    * @default 'default'
    */
   theme?: 'primary' | 'default' | 'dashed' | 'text' | 'link';
+  type?: 'button' | 'submit' | 'reset';
 }
 
 const Button: FC<ButtonProps> = (props) => {
