@@ -12,7 +12,7 @@ export type ButtonProps = {
   /** 按钮图标
    * @default -
    * */
-  icon?: React.ReactNode;
+  icon?: string | React.ReactNode;
   /** 加载中状态
    * @default false
    * */
