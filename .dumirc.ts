@@ -10,6 +10,8 @@ export default defineConfig({
     // 此时将指向 `/favicon.png` ，确保你的项目含有 `public/favicon.png`
     '/logo.jpg'
   ],
+  ssr: {},
+  exportStatic: {},
   outputPath: 'docs-dist',
   themeConfig: {
     name: 'Tita Design Mobile',
