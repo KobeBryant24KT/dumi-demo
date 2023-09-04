@@ -9,6 +9,10 @@ export type ButtonProps = {
    * @default false
    * */
   disabled?: boolean;
+  /** 按钮图标
+   * @default -
+   * */
+  icon?: React.ReactNode;
   /** 加载中状态
    * @default false
    * */
