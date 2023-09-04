@@ -12,7 +12,7 @@ export type ButtonProps = {
   /** 按钮形状
    *  @default 'default'
    * */
-  shape?: 'circle' | 'round';
+  shape?: 'default' | 'circle' | 'round';
   /** 按钮大小
    * @default 'middle'
    * */
