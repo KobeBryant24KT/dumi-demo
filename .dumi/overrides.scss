@@ -1,11 +1,17 @@
+.dumi-default-header-left {
+  width: unset;
+}
+
 .dumi-default-header-right {
   justify-content: flex-end;
   gap: 40px;
 }
 
 .dumi-default-hero-title {
+  font-size: 150px;
 
   span {
     background: linear-gradient(225deg,#00c3ff,#056afd);
+    -webkit-background-clip: text;
   }
 }

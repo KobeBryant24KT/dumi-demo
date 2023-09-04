@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "tita-design": ["src"],
-      "tita-design/*": ["src/*", "*"]
+      "my-dumi-demo": ["src"],
+      "my-dumi-demo/*": ["src/*", "*"]
     }
   },
   "include": [".dumi/**/*", ".dumirc.ts", "src/**/*", "src/components/Button/index.ts", "docs/components/Button/demos"]

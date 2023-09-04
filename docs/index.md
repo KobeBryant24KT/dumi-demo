@@ -1,6 +1,6 @@
 ---
 hero:
-  title: Tita Design
+  title: Tita Design Mobile
   description: A react library developed with dumi
   actions:
     - text: 开始使用

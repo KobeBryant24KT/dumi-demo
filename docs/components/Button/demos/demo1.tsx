@@ -4,7 +4,7 @@
 */
 
 import React from 'react';
-import { Button } from 'tita-design';
+import { Button } from 'my-dumi-demo';
 
 const App: React.FC = () => (
   <>

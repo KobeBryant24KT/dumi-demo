@@ -12,7 +12,7 @@ export default defineConfig({
   ],
   outputPath: 'docs-dist',
   themeConfig: {
-    name: 'Tita Design',
+    name: 'Tita Design Mobile',
     logo: '/logo.jpg',
     footer: false,
     showLineNum: true,
