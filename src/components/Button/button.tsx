@@ -9,6 +9,10 @@ export type ButtonProps = {
    * @default false
    * */
   disabled?: boolean;
+  /** 加载中状态
+   * @default false
+   * */
+  loading?: boolean;
   /** 按钮形状
    *  @default 'default'
    * */
