@@ -1,7 +1,7 @@
 # tita-design
 
-[![NPM version](https://img.shields.io/npm/v/tita-design.svg?style=flat)](https://npmjs.org/package/tita-design)
-[![NPM downloads](http://img.shields.io/npm/dm/tita-design.svg?style=flat)](https://npmjs.org/package/tita-design)
+[![NPM version](https://img.shields.io/npm/v/my-dumi-demo.svg?style=flat)](https://npmjs.org/package/my-dumi-demo)
+[![NPM downloads](http://img.shields.io/npm/dm/my-dumi-demo.svg?style=flat)](https://npmjs.org/package/my-dumi-demo)
 
 A react library developed with dumi
 
